@@ -1,4 +1,4 @@
-package com.netease.cloud.gabon_test;
+package com.zookeeper.conf.conf;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
